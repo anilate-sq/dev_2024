@@ -1,0 +1,1 @@
+[Лекция 6. Области видимости переменных static и передача аргументов](https://drive.google.com/file/d/1gkb0Ma55dFgZvPDRndMTcjTlBrEgZ4X5/view?usp=drive_link)
