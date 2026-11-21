@@ -1,1 +1,3 @@
-[Лекция 8. Рекурсия, быстрая сортировка, двоичный поиск и функции с переменным числом параметров](https://drive.google.com/file/d/1gMjb9I67JAM7pgPZid-LctHuT-5K7kK-/view?usp=drive_link)
+# Пара 10. Рекурсия, быстрая сортировка, двоичный поиск и функции с переменным числом параметров
+
+[Презентация](https://drive.google.com/file/d/1gMjb9I67JAM7pgPZid-LctHuT-5K7kK-/view?usp=drive_link)
