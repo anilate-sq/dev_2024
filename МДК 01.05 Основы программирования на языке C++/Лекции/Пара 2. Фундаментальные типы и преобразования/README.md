@@ -1,1 +1,3 @@
+# Пара 2. Фундаментальные типы и преобразования
+
 [Презентация](https://drive.google.com/file/d/1HhrdOhansKPpTfA95UJ9OYJ8EsLPQr5j/view?usp=drive_link)
