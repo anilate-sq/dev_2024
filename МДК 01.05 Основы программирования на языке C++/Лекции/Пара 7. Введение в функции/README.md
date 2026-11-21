@@ -1,1 +1,3 @@
-[Введение в функции](https://drive.google.com/file/d/1BVZEzcVIRS9JFxt5WvGt3LwAR-iTjh0c/view?usp=drive_link)
+# Пара 7. Введение в функции
+
+[Презентация](https://drive.google.com/file/d/1BVZEzcVIRS9JFxt5WvGt3LwAR-iTjh0c/view?usp=drive_link)
