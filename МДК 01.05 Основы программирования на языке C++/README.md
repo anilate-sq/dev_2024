@@ -8,6 +8,10 @@
 
 [Все лекции](Лекции/README.md) · [Контрольные и практика](Практика/README.md) · [Настройка среды](Дополнительные%20материалы/README.md)
 
+## Обновлённые лекции
+
+- [Лекция 15: взаимодействие struct, array и vector](%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%2015.%20%D0%92%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20struct,%20array%20%D0%B8%20vector/README.md) — [PDF](https://drive.google.com/file/d/1u6C0ryil1hV9xW-Isv1DzXwXBur5kEF_/view).
+
 ## Ранее опубликованные занятия
 
 | № | Тема | Материалы |
